@@ -1,0 +1,179 @@
+
+/* ============================================Gmail, Images links=============================================*/
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    outline: none;
+    margin: 0;
+}
+
+.header{
+    padding-top: 20px; 
+    font-size: 13px;
+    
+}
+
+#gmail{
+    float: right;
+    padding-right: 25px;
+    text-decoration: none;
+    color: darkgray;
+}
+
+#gmail:hover{
+    text-decoration: underline;
+}
+
+#images{
+    float: right;
+    text-decoration: none;
+    color: darkgray;
+    padding-right: 85px;
+}
+
+#images:hover{
+    text-decoration: underline;
+}
+
+/* ============================================Google Img, Buttons=============================================*/
+
+.container{
+    margin-top: 200px;
+}
+
+#img{
+    width: 15%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#input[type=text]{
+    width: 30%;
+    padding: 13px 13px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    position: relative;
+    left: 35%;
+    border: 2px solid #E2E2E2;
+    border-radius: 3px;
+    box-shadow:1px 1px 1px 1px #B2B2B2;
+}
+
+#input:hover{
+    box-shadow:2px 2px 2px 2px #B2B2B2; 
+}
+
+#btn_search[type=button]{
+    width: 7%;
+    height: 35px;
+    margin-top: 15px;
+    position: relative;
+    left:43%;
+    color: #7a7474;
+    border: 1px; 
+    background-color:  #E2E2E2;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#btn_search:hover{
+    color: black;
+    border: 2px groove #F2F2F2;
+}
+
+#lucky{
+    width: 7%;
+    height: 35px;
+    margin-top: 15px;
+    position: relative;
+    left: 43%;
+    color: #7a7474;
+    border: 1px;
+    background-color:  #E2E2E2;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#lucky:hover{
+    color: black;
+    border: 2px groove #F2F2F2;
+}
+
+
+/* ==========================================Footer===============================================*/
+
+.all{
+    position: relative;
+    top: 425px;
+}
+
+.location{
+    color: #7a7474;
+    font-size:  13px;
+    background-color: #E2E2E2;
+    border-top: #F2F2F2 groove 1px;
+    border-bottom: #F2F2F2 groove 1px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+#isr{
+    padding-left: 20px;
+}
+
+
+.footer{
+    font-size:  13px;
+    background-color: #E2E2E2;
+    padding-top: 12px;
+    padding-bottom: 12px; 
+}
+
+#link_1{
+    color: #7a7474; text-decoration: none;padding-left: 20px;
+}
+
+#link_1:hover{
+    text-decoration: underline;
+}
+
+#link_2{
+   color:#7a7474; text-decoration: none;padding-left: 20px;
+}
+
+#link_2:hover{
+    text-decoration: underline;
+}
+
+#link_3{
+    color: #7a7474; text-decoration: none;padding-left: 20px;
+}
+
+#link_3:hover{
+    text-decoration: underline;
+}
+
+#link_4{
+    color: #7a7474; text-decoration: none;float: right;padding-right: 20px;
+}
+
+#link_4:hover{
+    text-decoration: underline;
+}
+
+#link_5{
+    color: #7a7474; text-decoration: none;float: right;padding-right: 20px;
+}
+
+#link_5:hover{
+    text-decoration: underline;
+}
+
+#link_6{
+    color: #7a7474; text-decoration: none;float: right;padding-right: 20px;
+}
+
+#link_6:hover{
+    text-decoration: underline;
+}
